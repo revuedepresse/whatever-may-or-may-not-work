@@ -1,5 +1,5 @@
 {
-  "manifest_version": z,
+  "manifest_version": 3,
   "name": "Whatever may or may not happen",
   "version": "0.3.0",
   "description": "Experimental periodic removal of promoted posts.",
